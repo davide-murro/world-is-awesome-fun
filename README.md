@@ -244,13 +244,5 @@ Configuration is quite simple.
   dotnet dev-certs https --trust
   ```
 
-## Screenshots
-![tabletbig3](https://github.com/DavideMurro/WorldIsAwesome.fun/assets/118051417/c99d7c30-d0a6-45cf-b795-89dbb8e71e16)
-![tabletbig2](https://github.com/DavideMurro/WorldIsAwesome.fun/assets/118051417/63726725-fd1b-4c4f-8426-53ae17003d2a)
-![tabletbig4](https://github.com/DavideMurro/WorldIsAwesome.fun/assets/118051417/431e9e13-d1d9-401f-9f6e-01cfca613ff3)
-![tablet4](https://github.com/DavideMurro/WorldIsAwesome.fun/assets/118051417/1e145609-2e97-4ea5-96c3-863858fcaa83)
-![mobile2](https://github.com/DavideMurro/WorldIsAwesome.fun/assets/118051417/b9900a7d-6718-49c2-ab0d-00c9fff711c2)
-![mobile3](https://github.com/DavideMurro/WorldIsAwesome.fun/assets/118051417/c21884f7-ec1f-416f-87ad-7bcb4bc3c38f)
-![mobile4](https://github.com/DavideMurro/WorldIsAwesome.fun/assets/118051417/97249fb2-e4b8-4b25-bce1-fab7f2875829)
 
 
